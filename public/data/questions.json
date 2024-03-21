@@ -1,0 +1,47 @@
+[
+  {
+    "QuestionNum": 1,
+    "Answer": "Unanswered",
+    "Question": "How often do you brush your teeth?",
+    "Skippable": false,
+    "Options": ["yes", "no"],
+    "KnowMore": "Information: This question assesses your oral hygiene habits, as brushing teeth at least twice a day is generally recommended to maintain good oral health. ",
+    "Branching": { "Yes": 2, "No": 2 }
+  },
+  {
+    "QuestionNum": 2,
+    "Answer": "Unanswered",
+    "Question": "Do you use dental floss or other interdental cleaning aids?",
+    "Skippable": false,
+    "Options": ["yes", "no"],
+    "KnowMore": "Information: This question assesses your oral hygiene habits, as brushing teeth at least twice a day is generally recommended to maintain good oral health. ",
+    "Branching": { "Yes": 3, "No": 3 }
+  },
+  {
+    "QuestionNum": 3,
+    "Answer": "Unanswered",
+    "Question": "Are you sexually active?",
+    "Skippable": false,
+    "Options": ["yes", "no"],
+    "KnowMore": "Information: This question assesses your oral hygiene habits, as brushing teeth at least twice a day is generally recommended to maintain good oral health. ",
+    "Branching": { "Yes": 4, "No": 5 }
+  },
+  {
+    "QuestionNum": 4,
+    "Answer": "Unanswered",
+    "Question": "Okay, are you intimate with?",
+    "Skippable": false,
+    "Options": ["yes", "no"],
+    "KnowMore": "Information: This question assesses your oral hygiene habits, as brushing teeth at least twice a day is generally recommended to maintain good oral health. ",
+    "Branching": { "Yes": 5, "No": 5 }
+  },
+  {
+    "QuestionNum": 5,
+    "Answer": "Unanswered",
+    "Question": "How often have you had little interest or pleasure in doing things?",
+    "Skippable": false,
+    "Options": ["yes", "no"],
+    "KnowMore": "Information: This question assesses your oral hygiene habits, as brushing teeth at least twice a day is generally recommended to maintain good oral health. ",
+    "Branching": { "Yes": 5, "No": 5 }
+  }
+]
